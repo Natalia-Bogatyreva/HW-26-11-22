@@ -28,5 +28,5 @@
 # Working with files
 
 1. Move the image file to the working folder of the project.
-2. Create a file **gitignore** in the project folder.
+2. Create a file **.gitignore** in the project folder.
 3. Check the status of the current folder and files.
