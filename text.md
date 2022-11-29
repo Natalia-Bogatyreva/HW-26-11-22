@@ -40,3 +40,7 @@
 3. Check the status of the current folder and files.
 
 For clear terminal-window use command **clear**
+
+Официальный сайт Markdown
+http://daringfireball.net/projects/markdown/
+![Логотип MarkDawn](logo2.png)
