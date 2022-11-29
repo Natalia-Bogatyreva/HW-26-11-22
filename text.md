@@ -23,3 +23,16 @@ commit -am ""** - commit initialize
 **git checkout commit_hash_number** - transition between commit
 
 **git diff** - get information about differents
+
+# Instruction for MarkDawn (table)
+
+Создание таблиц с Markdown интуитивно понятно.
+
+Для выравнивания текста внутри ячеек используются знаки **:** в строке, отделяющей заголовок от основной таблицы.
+
+*Пример*: 
+Item      | Value | Quantity
+:-------- |:-----:| -------:
+Computer  | 1600  | 3
+Phone     | 12    | 2
+Pipe      | 1     | 1
