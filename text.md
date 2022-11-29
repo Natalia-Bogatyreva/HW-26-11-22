@@ -3,7 +3,7 @@
 
 >*"Знания умножают печали" (с) Соломон*
 * * * 
-![значок](https://w7.pngwing.com/pngs/628/559/png-transparent-github-computer-icons-github-cdr-cat-like-mammal-carnivoran.png)
+![Логотип GitHub](logo.png)
 
 **git config user.name** - initialize username
 
