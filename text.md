@@ -22,4 +22,12 @@ commit -am ""** - commit initialize
 
 **git checkout commit_hash_number** - transition between commit
 
+**git checkout name_branch** - transition between name_branch
+
 **git diff** - get information about differents
+
+**git branch** - get information about branches
+* -d (delete branch, after merge)
+* -D (delete branch, without merge)
+
+**git merge name_branch** - add name_branch (merge) in current branch
