@@ -31,3 +31,5 @@ commit -am ""** - commit initialize
 * -D (delete branch, without merge)
 
 **git merge name_branch** - add name_branch (merge) in current branch
+
+For claer terminal-window use command **clear**
