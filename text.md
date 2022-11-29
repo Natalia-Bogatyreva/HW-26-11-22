@@ -25,7 +25,7 @@
 
 **git diff** - get information about differents
 
-**git branch** - get information about branches
+**git branch name_branch** - get information about branches
 * -d (delete branch, after merge)
 * -D (delete branch, without merge)
 
