@@ -25,6 +25,7 @@
 
 **git diff** - get information about differents
 
+
 **git branch name_branch** - get information about branches
 * -d (delete branch, after merge)
 * -D (delete branch, without merge)
@@ -60,3 +61,15 @@ Markdown поддерживает два вида списков: маркеро
 Для *курсива* необходимо поставить знаки * вокруг текста. Для **жирного начертания** обрамим текст двумя звездочками, а для ***жирного курсива*** - тремя. 
 *Алтернативный синтаксис - использование знака _ по тем же правилам.*
 
+# Instruction for MarkDawn (table)
+
+Создание таблиц с Markdown интуитивно понятно.
+
+Для выравнивания текста внутри ячеек используются знаки **:** в строке, отделяющей заголовок от основной таблицы.
+
+*Пример*: 
+Item      | Value | Quantity
+:-------- |:-----:| -------:
+Computer  | 1600  | 3
+Phone     | 12    | 2
+Pipe      | 1     | 1
